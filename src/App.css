@@ -95,7 +95,7 @@ main {
 }
 
 .startingImg {
-  background-image: url(images/xmen.png);
+  background-image: url(images/bienvenue.jpg);
 }
 
 .leftImg {
@@ -206,10 +206,11 @@ footer {
 
 .formBoxLeftSignup {
   min-height: 500px;
-  background-image: url(images/ironman.png);
+  background-image: url(images/amb.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  flex: 0 1 50%;
+  background-size: cover;
+  flex: 0 1 70%;
 }
 
 .formBoxLeftLogin {
